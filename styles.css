@@ -1,0 +1,58 @@
+body{
+    height: 2000px;
+}
+
+
+
+.mavikedi{
+
+color: blue;
+
+}
+
+.buyukluk{
+
+    color: rgb(110, 47, 192);
+    font-size: 40px
+    ;
+}
+
+
+h1{
+    font-size: x-small;
+   
+    
+}
+
+.arka{
+
+    background-color: rgb(241, 90, 90);
+}
+
+.arkamavi{
+
+    background-color: rgb(44, 149, 175);
+}
+
+.poze{
+
+position: relative;
+top: 20px;
+left: 130px;
+}
+
+.fix{
+    position: fixed;
+    top: 10px;
+    left: 10px;
+    padding: 10px;
+    margin: 50px;
+}
+
+.Architecture{
+
+    font-size: 30px;
+}
+
+
+
